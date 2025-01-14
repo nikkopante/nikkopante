@@ -31,7 +31,7 @@ I am a passionate software engineer who specialize on geospatial web maps.
 ### 🌍 Connect with Me
 
 - **Website:** [nikkopante.github.io](https://nikkopante.github.io/)
-- **Email:** [cnpante@gmail.com]
+- **Email:** [cnpante@gmail.com](cnpante@gmail.com)
 - **LinkedIn:** [cnpante](https://www.linkedin.com/in/cnpante/)
 
 ### 📈 GitHub Stats
